@@ -3,6 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
+Pyrogram==1.4
 python-telegram-bot==13.15
 requests
 tgcrypto
